@@ -22,9 +22,16 @@ body {
 }
 
 .content {
+	border: solid 1px;
 	width: 980px;
 	height: 965px;
-	border: solid 1px;
+}
+
+.col-md-6 {
+	width: 490px;
+	height: 965px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
 .main-img {
