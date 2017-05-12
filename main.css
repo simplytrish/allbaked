@@ -32,7 +32,7 @@ body {
 	padding: 100px !important; 
 }
 
-@media(max-width:700px) {
+@media(min-width:700px) {
 	.main-text {
 		width: 50%;
 		height: 50%;
@@ -61,7 +61,7 @@ body {
     background-repeat: no-repeat;
 }
 
-@media(max-width:700px) {
+@media(min-width:700px) {
 	.main-img {
 		width: 50%;
 		height: 50%;
