@@ -30,8 +30,12 @@ body {
 .main-img {
 	/*background-image: url("eclairs3.jpg");*/
 	background-repeat: no-repeat;
-	height: 965px;
-	width: 490px;
+	position: absolute;
+    width: 490px;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: calc((100% - 490px) * 0.5);
 }
 
 .footer {
