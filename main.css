@@ -14,7 +14,7 @@ body {
 	border: solid 1px;
 }
 
-#logo-img {
+.logo-img {
 	width:40px;
 	height: 81px;
 	background: url('cakelogo.png');
@@ -24,6 +24,10 @@ body {
 	width: 980px;
 	height: 965px;
 	border: solid 1px;
+}
+
+.main-img {
+	background-image: url("eclairs3.jpg");
 }
 
 .footer {
