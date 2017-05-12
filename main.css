@@ -1,10 +1,10 @@
 body {
-	max-width: 1316px;
-	margin:auto;
+
 }
 
-.wrapper {
-	
+#wrapper {
+	margin:auto;
+	max-width: 1316px;
 
 }
 
@@ -25,6 +25,7 @@ body {
 
 .nopadding {
 	padding: 0px !important;
+	margin: 0px !important;
 }
 
 .main-text {
