@@ -31,8 +31,9 @@ body {
 }
 
 .main-img {
-    width: 100%;
-    height: 100%;
+    /*width: 100%;
+    height: 100%;*/
+    clip: rect(0px 659px 965px 0px);
 }
 
 .footer {
@@ -45,9 +46,7 @@ ul {
 	list-style: none;
 }
 
-li {
-	display:inline;
-}
+
 
 
 
