@@ -1,9 +1,10 @@
 body {
-	margin: 0 auto;
+	
 }
 
 .wrapper {
-	padding: 50px;
+	max-width: 980px;
+	margin: 0 auto;
 
 }
 
@@ -15,8 +16,8 @@ body {
 
 #logo-img {
 	width:40px;
-	height: 40px;
-	background: url('assets/cakelogo.png');
+	height: 81px;
+	background: url('cakelogo.png');
 }
 
 .content {
