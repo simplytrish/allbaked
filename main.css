@@ -32,11 +32,6 @@ body {
 	padding: 100px !important; 
 }
 
-@media(min-width:700px) {
-	.main-text {
-		width: 50%;
-		height: 50%;
-	}
 
 .intro-text {
 	font-size: 32px;
@@ -60,13 +55,6 @@ body {
     background-image: url("eclairs3.jpg");
     background-repeat: no-repeat;
 }
-
-@media(min-width:700px) {
-	.main-img {
-		width: 50%;
-		height: 50%;
-	}
-
 
 
 .footer {
