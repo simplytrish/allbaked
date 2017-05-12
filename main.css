@@ -23,13 +23,11 @@ body {
 
 .content {
 	border: solid 1px;
-	width: 980px;
+	width: 1316px;
 	height: 965px;
 }
 
 .col-md-6 {
-	width: 490px;
-	height: 965px;
 	padding-left: 0px;
 	padding-right: 0px;
 }
@@ -37,9 +35,8 @@ body {
 .main-img {
 	/*background-image: url("eclairs3.jpg");*/
 	background-repeat: no-repeat;
-	position: absolute;
-    max-width: 100%;
-    max-height: 100%;
+    width: 490px;
+    height: 965px;
 }
 
 .footer {
