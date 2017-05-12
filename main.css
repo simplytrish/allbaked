@@ -3,13 +3,13 @@ body {
 }
 
 .wrapper {
-	max-width: 980px;
+	max-width: 1316px;
 	margin: 0 auto;
 
 }
 
 .header {
-	width: 980px;
+	width: 1316px;
 	height: 81px;
 	border: solid 1px;
 }
@@ -35,12 +35,12 @@ body {
 .main-img {
 	/*background-image: url("eclairs3.jpg");*/
 	background-repeat: no-repeat;
-    width: 490px;
-    height: 965px;
+    width: 100%;
+    height: 100%;
 }
 
 .footer {
-	width: 980px;
+	width: 1316px;
 	height: 116px;
 	border: solid 1px;
 }
