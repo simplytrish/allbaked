@@ -28,6 +28,10 @@ body {
 	padding-right: 0px;
 }
 
+.main-text {
+	padding: 50px;
+}
+
 .intro-text {
 	font-size: 32px;
 	width: 410px;
