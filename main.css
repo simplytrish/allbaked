@@ -1,10 +1,10 @@
 body {
-	
+	max-width: 1316px;
+	margin: 0 auto;
 }
 
 .wrapper {
-	max-width: 1316px;
-	margin: 0 auto;
+	
 
 }
 
@@ -24,24 +24,23 @@ body {
 }
 
 .col-md-6 {
-	padding-left: 0px;
-	padding-right: 0px;
+	padding: 0px !important;
 }
 
 .main-text {
-	padding: 50px;
+	padding: 100px !important; 
 }
 
 .intro-text {
 	font-size: 32px;
 	width: 410px;
-	height: 280px;
+	padding-bottom: 20px;
 }
 
 .action-text {
 	font-size: 18px;
 	width: 240px;
-	height: 130px;
+	padding-bottom: 20px;
 }
 
 .main-img {
