@@ -1,6 +1,6 @@
 body {
 	max-width: 1316px;
-	margin: 0 auto;
+	margin:auto;
 }
 
 .wrapper {
@@ -23,7 +23,7 @@ body {
 	height: 965px;
 }
 
-.col-md-6 {
+.nopadding {
 	padding: 0px !important;
 }
 
