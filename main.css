@@ -41,5 +41,13 @@ body {
 	border: solid 1px;
 }
 
+ul {
+	list-style: none;
+}
+
+li {
+	display:inline;
+}
+
 
 
