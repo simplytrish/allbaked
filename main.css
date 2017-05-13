@@ -54,6 +54,7 @@ body {
     height: 100%;
     background-image: url("eclairs3.jpg");
     background-repeat: no-repeat;
+    z-index: -1;
 }
 
 
