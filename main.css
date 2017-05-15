@@ -4,6 +4,7 @@
 	margin:auto;
 	max-width: 1316px;
 	padding-top: 100px !important;
+	overflow-y: hidden;
 
 }
 
@@ -62,6 +63,7 @@
     height: 100%;
     background-image: url("eclairs3.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
@@ -82,11 +84,7 @@ ul {
 }
 
 
-@media(max-width:700px) {
-	.content .main-text .main-img {
-		width: 50%;
-		height: 50%;
-	}
+
 
 
 
