@@ -84,11 +84,17 @@ ul {
 
 @media(max-width:992px) {
 
+	.main-text {
+		width: 100%;
+		height: 100%;
+	}
+
 	.main-img {
 	width: 100%;
 	height: 50%;
 	}
 }
+
 
 
 
