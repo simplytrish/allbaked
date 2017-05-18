@@ -1,4 +1,7 @@
 
+#google_translate_element {
+
+}
 
 #wrapper {
 	margin:auto;
@@ -20,7 +23,7 @@
 	height: 110px;
 	position: fixed;
 	z-index: 1050;
-	margin-top: 2px;
+	/*margin-top: 2px;*/
 	margin-left: 10px;
 }
 
