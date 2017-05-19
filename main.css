@@ -1,7 +1,4 @@
 
-#google_translate_element {
-
-}
 
 #wrapper {
 	margin:auto;
@@ -63,9 +60,17 @@
 .main-img {
     width: 100%;
     height: 100%;
-    background-image: url("donuts1.jpg");
+    padding: 0 !important;
+}
+
+#imgmain {
+	background-image: url("donut2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80%
+
 }
 
 
