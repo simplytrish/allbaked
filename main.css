@@ -2,7 +2,7 @@
 
 #wrapper {
 	margin:auto;
-	max-width: 1316px;
+	max-width: 1000px;
 	padding-top: 100px !important;
 
 }
@@ -30,7 +30,7 @@
 
 .content {
 	width: 100%;
-	height: 965px;
+	height: 600px;
 	/*background-color: green;*/
 }
 
@@ -39,26 +39,26 @@
 	margin: 0px !important;
 }
 
-.main-text {
-	padding: 0 !important; 
-
+.main-text{
+	height: 100%;
 }
 
 #textmain {
 	padding: 50px 90px 0px 90px;
+	height:100%;
 
 }
 
 .intro-text {
-	font-size: 32px;
+	font-size: 28px;
 	width: 410px;
-	padding-bottom: 20px;
+	padding-bottom: 5px;
 }
 
 .action-text {
 	font-size: 18px;
 	width: 240px;
-	padding-bottom: 20px;
+	padding-bottom: 5px;
 }
 
 #subscribe-box {
@@ -73,12 +73,12 @@
 }
 
 #imgmain {
-	background-image: url("donut2.jpg");
+	background-image: url("puff-img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     width: 100%;
-    height: 80%
+    height: 100%
 
 }
 
@@ -88,11 +88,43 @@
 	height: 30px;
 }
 
+/*.content2{
+	width: 100%;
+	height: 600px;
+}
+
+.secondary-img {
+    width: 100%;
+    height: 80%;
+    padding: 0 !important;
+}
+
+#img2 {
+	background-image: url("puff-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%
+
+}
+
+.secondary-text{
+	font-size: 32px;
+	border: 1.5px solid #E8A091;
+	height: 100%;
+}
+
+.text2{
+	padding: 50px 90px 0px 90px;
+}*/
+
 
 .footer {
 	width: 100%;
 	height: 70px;
 	background-color: white;
+	/*border: 1.5px solid #E8A091;*/
 	/*position: absolute !important;*/
 }
 
@@ -108,7 +140,7 @@ ul {
 
 	.main-text {
 		width: 100%;
-		height: 55%;
+		height: 100%;
 	}
 
 	#textmain {
@@ -118,8 +150,9 @@ ul {
 
 	.main-img {
 	width: 100%;
-	height: 50%;
+	height: 80%;
 	}
+
 }
 
 
